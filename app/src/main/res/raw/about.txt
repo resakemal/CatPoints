@@ -1,0 +1,14 @@
+Peta kucing ITB (Wisker Looker) adalah program yang dikembangkan dalam penyelesaian masalah orang-orang untuk mencari dan berkomunikasi dengan sesama pecinta kucing. Kami mengobservasi dan mengamati perilaku orang-orang di sekitar kampus ITB mengalami fenomena stress dan mereka mengaku lebih lega ketika bertemu atau bermain dengan kucing. Kami melihat ini sebagai salah satu alternatif penyelesaian masalah stress ini. Bagaimana program ini dapat berjalan untuk membantu orang-orang menemukan kucing terdekat dengan bantuan orang lain yang menyebarkan data disekitar ITB. Kami berharap dari apps yang telah dikembangkan ini membuat user dapat berkomunikasi dengan user lain, berbagi pengalaman, berkenalan, berteman, dan bermain bersama kucing. Program ini rencananya adalah ekstensi dari social media yang telah berkembang pesat di zaman sekarang ini, dan kemudian kami ajukan agar para pecinta kucing dapat dengan aktif memakai sosial media tersebut.
+
+Whisker Looker 
+---------- 
+A Social Psychology project created by ITB students in solving human's stress problem 
+
+Haidar Ahmad Daffa   18013024 
+Ammar Ghiyas    17315010 
+Evander Claudio D   17315012 
+Alvin Sumitio    17315028 
+Kartika Cahya Pertiwi   19015053 
+Laras Anjarsari Dewi   19015121 
+Chubbiansyah Qori   19015169 
+Ahmad Priagung   19015199
